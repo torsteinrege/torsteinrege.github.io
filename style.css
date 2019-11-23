@@ -24,9 +24,7 @@ body{
 
 #header-title {
     display: block;
-    float: left;
-
-    font-size: 20px;
+    float: left
     font-weight: bold;
 }
 
